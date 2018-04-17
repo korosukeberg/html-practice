@@ -1,0 +1,25 @@
+.navi {
+  background: black;
+  width: 100%;
+  height: 40px;
+  color: white;
+}
+
+.navi__title {
+  display: inline;
+  font-size: 20px;
+  vertical-align: middle;
+}
+
+.navi__username {
+  float: right;
+}
+
+.subnavi {
+  background: bisque;
+}
+
+body {
+  margin: 0px;
+}
+/*# sourceMappingURL=style.css.map */
